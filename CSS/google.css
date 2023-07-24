@@ -1,0 +1,32 @@
+.bg{
+    background-color: rgb(238, 238, 238);;
+}
+
+.alt1{
+    display: block;
+    float: left;
+}
+.t{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.bg1{
+    background-color: rgb(126, 229, 218);
+}
+.bg2{
+    background-color: rgb(112, 204, 194);
+}
+.bg3{
+    background-color: rgb(98, 179, 170);
+}
+
+.font{
+    font-size: 16px;
+    font-family: 'Times New Roman';
+}
+.font1{
+    font-size: 13px;
+    font-family: 'Times New Roman';
+}
